@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Privacy Policy — Snack Workout</title>
+<style>body{font-family:-apple-system,sans-serif;max-width:720px;margin:40px auto;padding:0 20px;line-height:1.6;color:#222}h1{margin-bottom:4px}h2{margin-top:32px}small{color:#666}</style>
+</head>
+<body>
+<h1>Privacy Policy</h1>
+<small>Effective date: 2026-06-22</small>
+
+<h2>About this app</h2>
+<p>Snack Workout (the "App") is a personal-use fitness reminder app. It does not require an account and stores no personal data on any server we operate.</p>
+
+<h2>Data we collect directly</h2>
+<p>None. All settings (workout type, reps, work hours, streak count) are stored locally on your device using the operating system's standard local storage. We have no servers, no analytics, and no user accounts.</p>
+
+<h2>Third-party services</h2>
+<p>The App displays banner advertisements via <strong>Google AdMob</strong>. AdMob may collect:</p>
+<ul>
+  <li>Your device's advertising identifier (IDFA) — only if you grant App Tracking Transparency permission when prompted by iOS.</li>
+  <li>Approximate location derived from IP address, device type, and other technical signals used by Google to serve ads.</li>
+</ul>
+<p>Google's privacy practices are described at <a href="https://policies.google.com/privacy">policies.google.com/privacy</a>.</p>
+
+<h2>App Tracking Transparency</h2>
+<p>iOS will ask whether you allow the App to track you across other apps and websites. You can decline; the App will still function normally and will show non-personalized ads instead.</p>
+
+<h2>Notifications</h2>
+<p>The App schedules local notifications on your device to remind you to do a quick workout during your configured work hours. These notifications are generated and delivered entirely on your device — nothing is sent to a server.</p>
+
+<h2>Children</h2>
+<p>The App is not directed to children under 13 and we do not knowingly collect data from them.</p>
+
+<h2>Changes</h2>
+<p>We may update this policy occasionally. The effective date at the top will change accordingly.</p>
+
+<h2>Contact</h2>
+<p>Questions? Email <a href="mailto:antoneo@gmail.com">antoneo@gmail.com</a>.</p>
+</body>
+</html>
